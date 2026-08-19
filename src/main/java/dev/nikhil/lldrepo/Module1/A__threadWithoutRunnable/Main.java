@@ -1,4 +1,4 @@
-package dev.nikhil.lldrepo.Module1.B__threadWithoutRunnable;
+package dev.nikhil.lldrepo.Module1.A__threadWithoutRunnable;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

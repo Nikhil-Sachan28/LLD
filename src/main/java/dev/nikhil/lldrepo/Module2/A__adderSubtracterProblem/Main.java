@@ -4,7 +4,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-public class Main {
+public class  Main {
     public static  void main(String[] args) throws Exception{
         int times = 1000000;
         ExecutorService ex = Executors.newFixedThreadPool(2);

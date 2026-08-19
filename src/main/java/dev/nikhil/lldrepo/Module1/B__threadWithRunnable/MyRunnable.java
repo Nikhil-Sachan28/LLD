@@ -1,4 +1,4 @@
-package dev.nikhil.lldrepo.Module1.A__threadWithRunnable;
+package dev.nikhil.lldrepo.Module1.B__threadWithRunnable;
 
 public class MyRunnable implements Runnable{
     @Override
