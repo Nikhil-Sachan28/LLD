@@ -4,6 +4,7 @@ import dev.nikhil.lld2Repo.Module4_AbstractFactory_Factory.assignment0.model.Not
 import dev.nikhil.lld2Repo.Module4_AbstractFactory_Factory.assignment0.client.NotificationClient;
 import dev.nikhil.lld2Repo.Module4_AbstractFactory_Factory.assignment0.model.NotificationResult;
 
+// service should neve have mutable states
 public abstract class NotificationService {
 
     public final NotificationResult process(Notification notification) {
